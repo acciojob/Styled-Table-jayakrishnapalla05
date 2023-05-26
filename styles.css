@@ -1,1 +1,24 @@
 /* your code */
+*{
+	font-family: 'Dosis', sans-serif;
+   font-family: 'Poppins', sans-serif;
+}
+
+.tab{
+	border:1px solid purple;
+	width:100%;
+	border-radius:10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.head{
+	background-color:#9797f3;
+}
+.two,.four{
+	background-color:#e4dfdf;
+}
+.head th{
+	padding:10px;
+}
+#b td{
+	padding:10px
+}
